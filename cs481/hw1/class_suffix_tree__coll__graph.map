@@ -1,0 +1,6 @@
+<map id="SuffixTree" name="SuffixTree">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,128,102,154"/>
+<area shape="rect" id="Node000002" href="$struct_suffix_tree_node.html" title=" " alt="" coords="5,8,118,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,49,64,128,59,128,59,49"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="134,9,141,13,144,21,136,30,119,34,118,29,134,26,139,20,137,17,132,14"/>
+</map>
